@@ -1,0 +1,6 @@
+@GeoAccessControlAPI_HostAddress = http://localhost:5023
+
+GET {{GeoAccessControlAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
